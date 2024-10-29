@@ -1,0 +1,6 @@
+.env
+.venv
+__*
+.vscode
+data.json
+test.py
